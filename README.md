@@ -23,7 +23,9 @@ Fri - session / recap + next
 
 ## Try It
 
-[Modular well-named](small.md)
+[Fail on false positive](fail.md)
+
+[Modular well-named](small.md) and [recap](small-recap.md)
 
 ## References
 
