@@ -23,7 +23,9 @@ Fri - session / recap + next
 
 ## Try It
 
-[Reduce complexity with abstraction](functional.md)
+[Extend and Refactor](extend-refactor.md)
+
+[Reduce complexity with abstraction](functional.md) and [recap](functional-recap.md)
 
 [Pass the failing test](pass.md) and [recap](pass-recap.md)
 
