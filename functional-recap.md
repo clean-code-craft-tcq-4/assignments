@@ -2,6 +2,7 @@
 
 ## Purpose of asserts
 
+```c
 checkFinalResult(int result)
 {
      if(result)
@@ -15,6 +16,7 @@ checkFinalResult(int result)
         printf("Battery was not ok due to the parameters set to zero");
     }
 }
+```
 
 Function that can check any of the parameters
 

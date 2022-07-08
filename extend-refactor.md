@@ -31,7 +31,7 @@ Keep in mind: Though we are starting with warning levels for all parameters, cus
 ### Extension 2: Support a language in addition to English
 
 Our market has expanded to German-speaking countries!
-Switch the language of the printed messages based on a global variable.
+Switch the language of the printed user-messages based on a global variable.
 
 Use [Google translate](https://translate.google.com/?sl=en&tl=de&op=translate)
 if you aren't familiar with German.
