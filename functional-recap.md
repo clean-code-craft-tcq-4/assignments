@@ -18,6 +18,9 @@ checkFinalResult(int result)
 }
 ```
 
+[Conditions nested in code](https://github.com/clean-code-craft-tcq-4/simple-monitor-in-cs-Naveen-R-Mundaganur/blob/8963ae3ed27bbd82cf1c85f2d6045a4dab440162/checker.cs) - but temperature is independent of soc in real-life.
+This will cause code to get 'modified' when the customer asks to 'add' the ability to give multiple independent alerts.
+
 Function that can check any of the parameters
 
 ```cpp
