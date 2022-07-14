@@ -43,3 +43,32 @@ Three classes or one class with parameters?
 
 - https://github.com/clean-code-craft-tcq-4/simple-monitor-in-cpp-ankit-88/blob/714e62b76caff73c3230c8d95654fd3920dd2fdd/checker.hpp
 - https://github.com/clean-code-craft-tcq-4/simple-monitor-in-py-rahulkumar082
+
+Write a test to expose the bug (identical function calls in the `if` and `else` blocks)
+
+```c
+int IsWithinLimit(float paramValue, const ParamAttributes * param)
+{
+    if ((paramValue < param->min) || (paramValue > param->max))
+    {
+        ReportWarningMessage(getOutLimitParamLevel(paramValue, param), param);
+        return NOT_IN_LIMIT;
+    }
+    else
+    {
+        ReportWarningMessage(getOutLimitParamLevel(paramValue, param), param);
+        return IN_LIMIT;
+    }
+}
+```
+
+## Extensions
+
+Tolerance: Good example of naming the 'five percent'
+
+```c
+#define INLIMIT_TOLERANCE_PERCENTAGE  (5.0/100.0)
+```
+(bad way: `#define FIVE_PERCENT (5.0/100.0)`)
+
+[Single responsibility in data](https://github.com/clean-code-craft-tcq-4/simple-monitor-in-c-pprathi/blob/2c85eac49e73a3aba1f426337516901e97094f1c/BatteryChecker.h)- combining warning-levels with parameters
