@@ -78,3 +78,8 @@ A chain of transformations is suggested below.
 Each transformation is one function (or more).
 Do not mix different transformations in the same function.
 Have one function to chain ('compose') these transformation-functions.
+
+Taskes Taken
+
+Extension 1: Early Warning
+Extension 2: Support a language in addition to English
