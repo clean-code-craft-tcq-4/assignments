@@ -69,6 +69,10 @@ Tolerance: Good example of naming the 'five percent'
 ```c
 #define INLIMIT_TOLERANCE_PERCENTAGE  (5.0/100.0)
 ```
-(bad way: `#define FIVE_PERCENT (5.0/100.0)`)
+(do *not make: `#define FIVE_PERCENT (5.0/100.0)`)
 
 [Single responsibility in data](https://github.com/clean-code-craft-tcq-4/simple-monitor-in-c-pprathi/blob/2c85eac49e73a3aba1f426337516901e97094f1c/BatteryChecker.h)- combining warning-levels with parameters
+
+[Language dictionary](https://github.com/clean-code-craft-tcq-4/simple-monitor-in-py-Aarthi2212/blob/7b663c353f360141296e3f71e47eace9a3b5c6f5/constants.py) defined as constants - how do you test a language?
+
+[Well-organized test cases](https://github.com/clean-code-craft-tcq-4/simple-monitor-in-cpp-vrrenjith5/blob/96a013a377f1375fce81813ac2962407e126095e/main.cpp). Is there an opportunity to reduce the test effort for new parameters?
