@@ -23,6 +23,8 @@ Fri - session / recap + next
 
 ## Try It
 
+[Propose tests](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAY-7brxUNFVOWklBSFA2MERUVk5RNDdDRUNJT1dGSy4u) and try [a popular exercise](https://osherove.com/tdd-kata-1)
+
 Assessment: [Divide and Cover](type-wise-inference.md)
 
 [Extend and Refactor](extend-refactor.md) and [recap](functional-recap.md)
