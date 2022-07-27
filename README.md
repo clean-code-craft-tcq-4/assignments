@@ -23,9 +23,11 @@ Fri - session / recap + next
 
 ## Try It
 
+[TDD first step, then next](tdd-current-ranges.md)
+
 [Propose tests](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAY-7brxUNFVOWklBSFA2MERUVk5RNDdDRUNJT1dGSy4u) and try [a popular exercise](https://osherove.com/tdd-kata-1)
 
-Assessment: [Divide and Cover](type-wise-inference.md)
+Assessment: [Divide and Cover](type-wise-inference.md) and [recap](type-wise-recap.md)
 
 [Extend and Refactor](extend-refactor.md) and [recap](functional-recap.md)
 
