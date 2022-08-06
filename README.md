@@ -23,7 +23,7 @@ Fri - session / recap + next
 
 ## Try It
 
-[TDD first step, then next](tdd-current-ranges.md)
+[TDD first step](tdd-current-ranges.md) and [recap](tdd-first-recap.md)
 
 [Propose tests](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAY-7brxUNFVOWklBSFA2MERUVk5RNDdDRUNJT1dGSy4u) and try [a popular exercise](https://osherove.com/tdd-kata-1) and [recap](propose-tests-recap.md)
 
