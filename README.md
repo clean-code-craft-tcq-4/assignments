@@ -23,6 +23,8 @@ Fri - session / recap + next
 
 ## Try It
 
+[Add functionality using TDD](tdd-add-func.md)
+
 > Complete the ranges-functionality and tests, if not already done!
 
 [TDD first step](tdd-current-ranges.md) and [recap](tdd-first-recap.md)
