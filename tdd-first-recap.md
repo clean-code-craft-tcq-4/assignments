@@ -36,10 +36,10 @@ def check_error(sensor_readings):
   if 4095 in sensor_readings:
     sensor_readings.remove(4095)
   return sensor_readings
-```
 
 check_error(readings)
 # process further...
+```
 
 ---
 
