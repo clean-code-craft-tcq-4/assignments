@@ -23,6 +23,8 @@ Fri - session / recap + next
 
 ## Try It
 
+[Exchange and extend](streaming-exchange.md)
+
 [Streaming project](streaming-project.md)
 
 [Add functionality using TDD](tdd-add-func.md) and [recap](tdd-a2d-recap.md)
